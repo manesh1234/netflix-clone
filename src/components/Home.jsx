@@ -99,7 +99,7 @@ const Home = () => {
                 </div>
             </section>
             : <div className={styles.loading}>
-                <SpinnerInfinity size={250} thickness={152} speed={121} color="#36ad47" secondaryColor="rgba(0, 0, 0, 0.44)" />
+                <SpinnerInfinity size={250} thickness={152} speed={121} color="#FF0000" secondaryColor="rgba(0, 0, 0, 0.44)" />
             </div>);
 };
 
