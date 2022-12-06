@@ -1,5 +1,8 @@
 # netflix-clone
- netflix clone using reactjs as front end
+this project is a front-end clone of Netflix website which is made using API 
+integration of TMDB (the movie data-base) for getting some movies(not netflix originals) list 
+Tech stack used: HTML, CSS, JavaScript, ReactJs, axios,
+TMDB API
 
 # Getting Started with Create React App
 
